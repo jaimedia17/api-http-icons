@@ -29,4 +29,15 @@ Every icon follows a deterministic geometric framework to ensure consistency, re
 
 ### 5. Pixel Discipline  
 - All geometry aligns to a strict pixel grid.  
-- No fractional coordinates
+- No fractional coordinates.  
+- Ensures crisp rendering in UI environments.
+
+## Family Consistency  
+Each icon family inherits the same geometric rules but applies them to its semantic domain:
+
+- **HTTP 4xx:** structural or permission‑based client failures  
+- **Workflow:** process, transitions, checkpoints  
+- **Rate‑Limit:** thresholds, enforcement, exhaustion  
+
+## Outcome  
+Geometry ensures that every icon feels like part of a unified system — predictable, readable, and technically trustworthy.
