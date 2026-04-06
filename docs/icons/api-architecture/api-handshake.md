@@ -1,5 +1,5 @@
 # Technical Handshake Icon  
-**Jai Visuals NZ — API Architecture & Interaction System**
+**API Architecture & Interaction System**
 
 ## Overview  
 The Technical Handshake icon represents the moment when **two independent systems acknowledge each other**, confirm compatibility, and agree to communicate. It visualizes the pre‑communication alignment phase where both sides recognize each other’s presence and capabilities before any data exchange occurs.  
